@@ -1,0 +1,89 @@
+{
+  "categorias": [
+    {
+      "id": "1",
+      "titulo": "Front End",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Formação de Front End na Alura",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      }
+    },
+    {
+      "id": "2",
+      "titulo": "Back End",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Cursos de Back End na Alura",
+        "url": "https://www.alura.com.br/cursos-online-programacao"
+      }
+    },
+    {
+      "id": "3",
+      "titulo": "Data Science e Inteligência Artificial",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Cursos de Data Science na Alura",
+        "url": "https://www.alura.com.br/cursos-online-mobile"
+      }
+    },
+    {
+      "id": "5",
+      "titulo": "Games",
+      "cor": "red",
+      "link_extra": {
+        "text": "Formação de Jogos na Alura",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      }
+    },
+    {
+      "id": "6",
+      "titulo": "Música",
+      "cor": "#FF63B1"
+    }
+  ],
+  "videos": [
+    {
+      "id": "7b59",
+      "titulo": "Video padrão",
+      "url": "https://www.youtube.com/watch?v=NpS2PksdMCc&list=PLh2Y_pKOa4Uc59WOLGmtQ0tqqSKUtErru&index=1",
+      "categoriaId": "1"
+    },
+    {
+      "id": "2b66",
+      "titulo": "Video padrão",
+      "url": "https://www.youtube.com/watch?v=jOAU81jdi-c",
+      "categoriaId": "1"
+    },
+    {
+      "titulo": "Machine learning",
+      "url": "https://www.youtube.com/watch?v=tegeNePX47A&list=PLh2Y_pKOa4Uc59WOLGmtQ0tqqSKUtErru&index=4",
+      "categoriaId": "3",
+      "id": "lzRvhOR"
+    },
+    {
+      "titulo": "Quais são as áreas da carreira de games?",
+      "url": "https://www.youtube.com/watch?v=033Z2ABf3pg",
+      "categoriaId": "5",
+      "id": "9onLJEe"
+    },
+    {
+      "titulo": "O que é Data Science?",
+      "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU",
+      "categoriaId": "3",
+      "id": "9vK6efX"
+    },
+    {
+      "titulo": "Criando uma música com o Suno",
+      "url": "https://www.youtube.com/watch?v=C0dfQuPDcaY",
+      "categoriaId": "6",
+      "id": "EYmXcTI"
+    },
+    {
+      "titulo": "Portfolio Backend",
+      "url": "https://www.youtube.com/watch?v=YVs-BXViC7o",
+      "categoriaId": "2",
+      "id": "SO6Eqs1"
+    }
+  ]
+}
